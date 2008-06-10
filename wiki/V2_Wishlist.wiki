@@ -14,5 +14,6 @@
 
 Nice to have
 
+  * Colored labels (a-la Mac Labels) via context menu
   * Evolve CIM logging to enable command to be sent via LogBook to a project 
   * Ability to graph numerical data
